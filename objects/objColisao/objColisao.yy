@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"objColetavel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objColisao",
+  "eventList":[],
   "managed":true,
-  "name":"objColetavel",
+  "name":"objColisao",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprMoeda",
-    "path":"sprites/sprMoeda/sprMoeda.yy",
+    "name":"sprColisao",
+    "path":"sprites/sprColisao/sprColisao.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

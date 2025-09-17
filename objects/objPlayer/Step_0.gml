@@ -138,7 +138,22 @@
 #endregion
 
 
+#region Colisão Inimigos 
+     //Primeiro checar a colisão foi encima do inimigo
+	 //Senão, mata o player 
+	 
+	 if place_meeting(x,y+30, objMorcego){
+		 identificador = instance_place ( x,y + 30,objMorcego)
+		 instance_destroy(identificador)
+		 global.pontos += 5
+	 }
+	 else if place_meeting(x,y, objMorcego){
+		 global.vidas--
+		 room_restart()
+		 
+	 }
 
+#endregion 
 
 
 

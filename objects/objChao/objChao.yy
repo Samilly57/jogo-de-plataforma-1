@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"sprChao",
+    "path":"sprites/sprChao/sprChao.yy",
   },
   "spriteMaskId":null,
   "visible":true,
