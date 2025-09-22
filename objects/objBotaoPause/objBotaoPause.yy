@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"objMorteInimigo",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objBotaoPause",
+  "eventList":[],
   "managed":true,
-  "name":"objMorteInimigo",
+  "name":"objBotaoPause",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"grpBotoes",
+    "path":"folders/Objects/grpBotoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprBotaodePause",
+    "path":"sprites/sprBotaodePause/sprBotaodePause.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
