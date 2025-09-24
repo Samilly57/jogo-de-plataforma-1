@@ -1,0 +1,2 @@
+posicaoX = x
+posicaoY = y

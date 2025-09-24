@@ -1,0 +1,1 @@
+draw_sprite(sprBotaoPause,all,x,y)

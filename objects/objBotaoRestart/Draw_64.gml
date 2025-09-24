@@ -1,0 +1,1 @@
+draw_sprite(sprBotao, all,x,y)

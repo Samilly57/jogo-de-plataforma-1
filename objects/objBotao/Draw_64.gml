@@ -1,0 +1,1 @@
+draw_text_transformed(x - 500,y,mensagem,8,8,0)

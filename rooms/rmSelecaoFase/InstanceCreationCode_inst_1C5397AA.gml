@@ -1,0 +1,1 @@
+draw_text_transformed(x , y ," esta fase não existe" , 256 , 256, 0)
